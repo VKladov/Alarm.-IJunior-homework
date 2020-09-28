@@ -7,9 +7,9 @@ using UnityEngine;
 public class Alarm : MonoBehaviour
 {
     [SerializeField] private Color _alarmColor;
-    [SerializeField] float _blinkDuration = 0.2f;
-    [SerializeField] float _soundFadeDuration = 2f;
-    [SerializeField] float _maxSoundVolume = 0.5f;
+    [SerializeField] private float _blinkDuration = 0.2f;
+    [SerializeField] private float _soundFadeDuration = 2f;
+    [SerializeField] private float _maxSoundVolume = 0.5f;
 
     private SpriteRenderer _renderer;
     private Color _defaultColor;
