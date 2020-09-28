@@ -103,7 +103,6 @@ public class Alarm : MonoBehaviour
         while (_audio.volume < _maxSoundVolume)
         {
             float delta = _maxSoundVolume * Time.deltaTime / _soundFadeDuration;
-            Debug.Log("delta " + delta);
             _audio.volume += delta;
             yield return null;
         }
