@@ -242,7 +242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 681482985}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.99, y: -0.51, z: 0}
+  m_LocalPosition: {x: -9.05, y: -0.53, z: 0}
   m_LocalScale: {x: 1, y: 9.273, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -563,7 +563,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542554565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.96, y: -0.54, z: 0}
+  m_LocalPosition: {x: 9.04, y: -0.54, z: 0}
   m_LocalScale: {x: 1, y: 9.273, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -667,7 +667,7 @@ GameObject:
   - component: {fileID: 1621866135}
   - component: {fileID: 1621866140}
   m_Layer: 0
-  m_Name: walk1
+  m_Name: Thief
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -783,7 +783,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1621866134}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.85, y: -3.59, z: 0}
+  m_LocalPosition: {x: -2.3, y: -3.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -890,7 +890,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1627929418}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.507, y: -2.589, z: 0}
+  m_LocalPosition: {x: 5.76, y: -2.57, z: 0}
   m_LocalScale: {x: 5.651, y: 3.495, z: 1}
   m_Children:
   - {fileID: 934564267}
@@ -1020,18 +1020,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.013011217, y: 0}
+  m_Offset: {x: -0.03235054, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 1, y: 1}
-    newSize: {x: 15.464877, y: 0.9740143}
+    newSize: {x: 17.134384, y: 0.9740143}
     adaptiveTilingThreshold: 0.5
     drawMode: 2
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 15.386826, y: 1}
+  m_Size: {x: 17.204884, y: 1}
   m_EdgeRadius: 0
 --- !u!212 &1921640248
 SpriteRenderer:
@@ -1075,7 +1075,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 15.464877, y: 0.9740143}
+  m_Size: {x: 17.134384, y: 0.9740143}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1089,7 +1089,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1921640245}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.02, y: -4.687, z: 0}
+  m_LocalPosition: {x: -0.001, y: -4.687, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
